@@ -28,7 +28,7 @@ DESC
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec"
-  spec.add_development_dependency "activerecord", "~> 3.2.18"
+  spec.add_development_dependency "activerecord", "~> 8.0.2"
 
   # required for active admin
   spec.add_development_dependency "sass-rails"
